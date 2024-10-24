@@ -76,9 +76,9 @@ They have been categorized for our convenience as you may want to adjust or remo
 
 
 
-Once that is completed, save the changes and restart your server. (Unless you plan on doing some tweaking to the <min> and <max> to your heart's content) I would recommend increasing the nominal if you plan on tweaking how many crash sites will spawn at one time. 
+Once that is completed, save the changes and restart your server. (Unless you plan on doing some tweaking to the <min> and <max> to your heart's content) I would recommend increasing the nominal if you plan on tweaking the humvee spawn rate. 
 
-If the crash sites haven’t worked (They should), I would set your <active>1</active> to <active>0</active>. Make sure you stop the server first, save changes then restart, once the server has restarted stop the server once again, set the active back to 1 (<active>1</active> ) save changes then restart the server. All should be fixed. 
+If the humvees haven’t spawned (They should), I would set your <active>1</active> to <active>0</active>. Make sure you stop the server first, save changes then restart, once the server has restarted stop the server once again, set the active back to 1 (<active>1</active> ) save changes then restart the server. All should be fixed. 
 
 
 
