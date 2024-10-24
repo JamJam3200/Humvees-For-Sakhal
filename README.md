@@ -49,13 +49,13 @@ These positions will need to be placed within our Cfgeventspawns.xml, (top of th
 They have been categorized for our convenience as you may want to adjust or remove one of the positions if needed be, this will make it easier if you intend to add your own. 
 
 	     <event name="VehicleOffroad02">
-				        <pos x="6974.190429" z="7140.311035"/>
+		<pos x="6974.190429" z="7140.311035"/>
                 <pos x="7026.977050" z="7639.657714"/>
                 <pos x="7304.903320" z="7260.874511"/>
                 <pos x="4420.831542" z="8864.310546"/>
                 <pos x="5452.690429" z="10175.280273"/>
                 <pos x="7511.534179" z="9695.983398"/> 
-			        	<pos x="8114.315917" z="11958.385742"/>
+		<pos x="8114.315917" z="11958.385742"/>
                 <pos x="12138.188476" z="9770.791015"/>
                 <pos x="10423.440429" z="8599.865234"/>
                 <pos x="10282.294921" z="8573.929687"/>
@@ -71,7 +71,7 @@ They have been categorized for our convenience as you may want to adjust or remo
                 <pos x="964.606079"  z="7717.763671"/>
                 <pos x="2518.240234" z="8726.726562"/>
                 <pos x="3647.762451" z="9361.019531"/>
-				        <pos x="2656.389160" z="9220.610351"/>
+		 <pos x="2656.389160" z="9220.610351"/>
 	        	</event>         
 
 
